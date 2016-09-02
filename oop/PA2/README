@@ -1,0 +1,9 @@
+// Gerald Brown
+// 1377271
+// PA 2
+
+ListClient runs with current List and sorts appropriately.
+The given function for testing equality (List.c : equals() --
+it was either in Stack.c or Queue.c) does not return the appropriate 
+answers. Segmentation fault in Lex -- attempted adding printf
+to assess what the cause was, without success.
